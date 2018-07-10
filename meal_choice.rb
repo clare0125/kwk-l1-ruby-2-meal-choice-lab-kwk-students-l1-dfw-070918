@@ -29,17 +29,17 @@ def breakfast(breakfast_food="scrambled eggs")
   puts "Morning is the best time for #{breakfast_food}!"
 end
 
-breakfast("blueberry pancakes")
+breakfast("frosted flakes")
 breakfast
 
-def lunch(lunch_food= "tacos")
+def lunch(lunch_food= "grilled cheese")
   puts "I like to eat #{lunch_food} for lunch!"
 end
 
 lunch("sandwiches")
 lunch
 
-def dinner(dinner_food= "pasta")
+def dinner(dinner_food= "salmon")
   puts "For dinner, I enjoy eating #{dinner_food}!"
 end
 
